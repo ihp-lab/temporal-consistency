@@ -13,5 +13,11 @@ adjacent frame pairs along with the fixed anchor frame. In each adjacent pair, t
 frame is the positive sample and the following frame is the negative sample. Finally, all
 triplet losses are added to form the ranking triplet loss.
 
-# Overview Video
+## Overview Video
 [![](http://img.youtube.com/vi/B4AZU4gsK7o/0.jpg)](http://www.youtube.com/watch?v=B4AZU4gsK7o "")
+
+## Temporal Consistency
+![](https://github.com/intelligent-human-perception-laboratory/temporal-consistency/blob/master/img/temporal.gif)
+
+## Pre-trained Weights
+Pretrained weights could be downloaded from Google Drive:

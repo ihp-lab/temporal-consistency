@@ -12,3 +12,5 @@ embeddings. L2-norm is applied on output embeddings. We then compute triplet los
 adjacent frame pairs along with the fixed anchor frame. In each adjacent pair, the preceding
 frame is the positive sample and the following frame is the negative sample. Finally, all
 triplet losses are added to form the ranking triplet loss.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B4AZU4gsK7o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

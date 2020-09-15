@@ -20,4 +20,4 @@ triplet losses are added to form the ranking triplet loss.
 ![](https://github.com/intelligent-human-perception-laboratory/temporal-consistency/blob/master/img/temporal.gif)
 
 ## Pre-trained Weights
-Pretrained weights could be downloaded from Google Drive:
+Pretrained weights could be downloaded from [here](https://drive.google.com/file/d/10BUSkTADsSc8W5jBX59-vtoHXcH0q9o9/view?usp=sharing)
